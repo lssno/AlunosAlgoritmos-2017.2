@@ -7,4 +7,7 @@ Lista dos repositórios dos alunos de algoritmos
 * [Lista 02](https://github.com/haironfyre/Exercicio-02) - *Em andamento*
 
 --- 
+## Emídio Lopes - [EmidioLP](https://github.com/EmidioLP)
+* [Lista 02](https://github.com/EmidioLP/Lista2) - *Completo*
 
+---
