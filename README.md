@@ -8,6 +8,6 @@ Lista dos repositórios dos alunos de algoritmos
 
 --- 
 ## Emídio Lopes - [EmidioLP](https://github.com/EmidioLP)
-* [Lista 02](https://github.com/EmidioLP/Lista2) - *Em andamento*
+* [Lista 02](https://github.com/EmidioLP/Lista2) - *Completo*
 
 ---
