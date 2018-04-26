@@ -15,3 +15,6 @@ Lista dos repositórios dos alunos de algoritmos
 ## Renato Monteiro - [B4G4C31R0](https://github.com/B4G4C31R0)
 * [Lista 02](https://github.com/B4G4C31R0/lista2) - *Completo*
 
+---
+## Francisco Marcos - [marcos16165]_(https://github.com/marcos16165)
+*.[lista-2]_(https://github.com/marcos16165/Lista-02)
