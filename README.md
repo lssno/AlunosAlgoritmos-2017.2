@@ -7,6 +7,11 @@ Lista dos repositórios dos alunos de algoritmos
 
 ---
 
+## Francisco Marcos - [marcos16165]_(https://github.com/marcos16165)
+*.[lista-2]_(https://github.com/marcos16165/Lista-02)
+
+---
+
 ## John Hoffman (Manoel Antonio) - [haironfyre](https://github.com/haironfyre)
 * [Lista 02](https://github.com/haironfyre/Exercicio-02) - *Em andamento*
 
@@ -15,6 +20,3 @@ Lista dos repositórios dos alunos de algoritmos
 ## Renato Monteiro - [B4G4C31R0](https://github.com/B4G4C31R0)
 * [Lista 02](https://github.com/B4G4C31R0/lista2) - *Completo*
 
----
-## Francisco Marcos - [marcos16165]_(https://github.com/marcos16165)
-*.[lista-2]_(https://github.com/marcos16165/Lista-02)
