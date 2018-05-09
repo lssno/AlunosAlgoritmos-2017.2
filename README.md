@@ -20,3 +20,8 @@ Lista dos repositórios dos alunos de algoritmos
 ## Renato Monteiro - [B4G4C31R0](https://github.com/B4G4C31R0)
 * [Lista 02](https://github.com/B4G4C31R0/lista2) - *Completo*
 
+---
+
+## João Roberto - [joaoroberto50](https://github.com/joaoroberto50)
+* [Lista 02](https://github.com/joaoroberto50/Funcoes/blob/master/funcoes_correcao.py) - *Completo*
+
