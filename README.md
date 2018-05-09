@@ -20,3 +20,7 @@ Lista dos repositórios dos alunos de algoritmos
 ## Renato Monteiro - [B4G4C31R0](https://github.com/B4G4C31R0)
 * [Lista 02](https://github.com/B4G4C31R0/lista2) - *Completo*
 
+---
+
+## André Luiz - [andreluizlq](https://github.com/andreluizlq)
+* [Lista 02](https://github.com/andreluizlq/exerc-cios-pensepy) - *Completo*
