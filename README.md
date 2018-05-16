@@ -20,3 +20,9 @@ Lista dos repositórios dos alunos de algoritmos
 ## Renato Monteiro - [B4G4C31R0](https://github.com/B4G4C31R0)
 * [Lista 02](https://github.com/B4G4C31R0/lista2) - *Completo*
 
+
+---
+
+## FcoVitor - [Fcovitor](https://github.com/Fcovitor/)
+* [Lista 02](https://github.com/Fcovitor/funcoespy)
+
