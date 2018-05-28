@@ -16,6 +16,11 @@ Lista dos repositórios dos alunos de algoritmos
 
 ---
 
+## FcoVitor - [Fcovitor](https://github.com/Fcovitor/)
+* [Lista 02](https://github.com/Fcovitor/funcoespy)
+
+---
+
 ## John Hoffman (Manoel Antonio) - [haironfyre](https://github.com/haironfyre)
 * [Lista 02](https://github.com/haironfyre/Exercicio-02) - *Completo*
 
@@ -29,4 +34,5 @@ Lista dos repositórios dos alunos de algoritmos
 ## Veridiano Francisco -[Veridiano1976](https://github.com/Veridiano1976/)
 * [Lista 02](https://github.com/Veridiano1976/Lista_exercicio)
 ---
+
 
