@@ -21,6 +21,11 @@ Lista dos repositórios dos alunos de algoritmos
 
 ---
 
+## João Roberto - [joaoroberto50](https://github.com/joaoroberto50)
+* [Lista 02](https://github.com/joaoroberto50/Funcoes/blob/master/funcoes_correcao.py) - *Completo*
+
+---
+
 ## John Hoffman (Manoel Antonio) - [haironfyre](https://github.com/haironfyre)
 * [Lista 02](https://github.com/haironfyre/Exercicio-02) - *Completo*
 
@@ -34,5 +39,6 @@ Lista dos repositórios dos alunos de algoritmos
 ## Veridiano Francisco -[Veridiano1976](https://github.com/Veridiano1976/)
 * [Lista 02](https://github.com/Veridiano1976/Lista_exercicio)
 ---
+
 
 
