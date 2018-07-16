@@ -11,6 +11,11 @@ Lista dos repositórios dos alunos de algoritmos
 
 ---
 
+## Erick Eduardo - [erickccuern](https://github.com/erickccuern)
+* [Lista 02](https://github.com/erickccuern/Lista2)
+
+---
+
 ## Francisco Marcos - [marcos16165](https://github.com/marcos16165)
 * [lista-2](https://github.com/marcos16165/Lista-02)
 
