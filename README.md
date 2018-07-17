@@ -6,6 +6,11 @@ Lista dos repositórios dos alunos de algoritmos
 
 --- 
 
+## Antonio Vicente - [Antonio2Beta](https://github.com/Antonio2Beta/)
+* [Lista 02](https://github.com/Antonio2Beta/PensePy01/blob/master/Lista2.py)
+
+---
+
 ## Emídio Lopes - [EmidioLP](https://github.com/EmidioLP)
 * [Lista 02](https://github.com/EmidioLP/Lista2) - *Completo*
 
@@ -31,6 +36,11 @@ Lista dos repositórios dos alunos de algoritmos
 
 ---
 
+## Joyce Claine - [JoyceClaine](https://github.com/JoyceClaine)
+* [Lista 02](https://github.com/JoyceClaine/avaliacao2) - *Completo*
+
+---
+
 ## John Hoffman (Manoel Antonio) - [haironfyre](https://github.com/haironfyre)
 * [Lista 02](https://github.com/haironfyre/Exercicio-02) - *Completo*
 
@@ -45,6 +55,6 @@ Lista dos repositórios dos alunos de algoritmos
 * [Lista 02](https://github.com/Veridiano1976/Lista_exercicio)
 ---
 
-## Antonio Vicente - [Antonio2Beta](https://github.com/Antonio2Beta/)
-* [Lista 02](https://github.com/Antonio2Beta/PensePy01/blob/master/Lista2.py)
+
+
 
