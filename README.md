@@ -11,6 +11,11 @@ Lista dos repositórios dos alunos de algoritmos
 
 ---
 
+## Claudionor Amâncio - [ClaudionorOjr](https://github.com/ClaudionorOjr)
+* [Lista 02](https://github.com/ClaudionorOjr/Lista2) - *Completo*
+
+---
+
 ## Emídio Lopes - [EmidioLP](https://github.com/EmidioLP)
 * [Lista 02](https://github.com/EmidioLP/Lista2) - *Completo*
 
@@ -60,5 +65,3 @@ Lista dos repositórios dos alunos de algoritmos
 
 ---
 
-## Claudionor Amâncio - [ClaudionorOjr](https://github.com/ClaudionorOjr)
-* [Lista 02](https://github.com/ClaudionorOjr/Lista2) - *Completo*
