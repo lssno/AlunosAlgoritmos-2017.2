@@ -60,4 +60,5 @@ Lista dos repositórios dos alunos de algoritmos
 
 ---
 
-
+## Claudionor Amâncio - [ClaudionorOjr](https://github.com/ClaudionorOjr)
+* [Lista 02](https://github.com/ClaudionorOjr/Lista2) - *Completo*
