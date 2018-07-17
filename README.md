@@ -40,5 +40,6 @@ Lista dos repositórios dos alunos de algoritmos
 * [Lista 02](https://github.com/Veridiano1976/Lista_exercicio)
 ---
 
-
+## Antonio Vicente - [Antonio2Beta](https://github.com/Antonio2Beta/)
+* [Lista 02](https://github.com/Antonio2Beta/PensePy01/blob/master/Lista2.py)
 
