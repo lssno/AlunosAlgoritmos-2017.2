@@ -16,6 +16,11 @@ Lista dos repositórios dos alunos de algoritmos
 
 ---
 
+## Daniel Lucas - [danielicapui](https://github.com/danielicapui)
+* [Lista 02](https://github.com/danielicapui/Lista-02) 
+
+---
+
 ## Emídio Lopes - [EmidioLP](https://github.com/EmidioLP)
 * [Lista 02](https://github.com/EmidioLP/Lista2) - *Completo*
 
