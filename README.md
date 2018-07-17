@@ -55,6 +55,9 @@ Lista dos repositórios dos alunos de algoritmos
 * [Lista 02](https://github.com/Veridiano1976/Lista_exercicio)
 ---
 
+## Willyam Stepham - [WillStepham](https://github.com/WillStepham)
+* [Lista 02](https://github.com/WillStepham/Lista02) - *Completo*
 
+---
 
 
